@@ -2,14 +2,14 @@
 
 
           
-# 🏦 Sistema Bancário Python 3000 🚀
+# 🏦 Sistema Bancário 2.0 🚀
 
 ## 💰 Seu dinheiro, nossa responsabilidade! 💰
 
 
 ## 🌟 O que é isso?
 
-Bem-vindo ao **Sistema Bancário Python 3000** - a solução bancária que você sempre sonhou! Este sistema foi desenvolvido com Python puro e SQLite para oferecer uma experiência bancária completa, segura e eficiente. Quem precisa de bancos reais quando você tem código?
+Bem-vindo ao **Sistema Bancário 2.0** - a solução bancária que você sempre sonhou! Este sistema foi desenvolvido com Python puro e SQLite para oferecer uma experiência bancária completa, segura e eficiente. Quem precisa de bancos reais quando você tem código?
 
 ## 🔥 Funcionalidades Incríveis
 
